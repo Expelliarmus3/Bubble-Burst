@@ -1,0 +1,1 @@
+const parent_div=document.querySelector(".grid");

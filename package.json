@@ -1,0 +1,25 @@
+{
+  "name": "etch-a-sketch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Expelliarmus3/Etch-A-Sketch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Expelliarmus3/Etch-A-Sketch/issues"
+  },
+  "homepage": "https://github.com/Expelliarmus3/Etch-A-Sketch#readme",
+  "devDependencies": {
+    "electron": "^45.3.2",
+    "electron-reload": "^2.0.0-alpha.1"
+  }
+}
